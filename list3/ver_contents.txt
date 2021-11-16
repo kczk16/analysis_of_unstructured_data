@@ -1,0 +1,1 @@
+{'kind': 'youtube#channelListResponse', 'etag': '5NFy8Pw8My4Sw1LIj0WxHrd4zvM', 'pageInfo': {'totalResults': 1, 'resultsPerPage': 5}, 'items': [{'kind': 'youtube#channel', 'etag': 'fdmldzetq8235Eh_T--brsjat6M', 'id': 'UCHnyfMqiRRG1u-2MsSQLbXA', 'contentDetails': {'relatedPlaylists': {'likes': '', 'uploads': 'UUHnyfMqiRRG1u-2MsSQLbXA'}}}]}
